@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "1,2,3,4,5",
+      "setup": "javac MinMax.java",
+      "run": "java MinMax",
+      "input": "1\r\n2\r\n3\r\n4\r\n5",
+      "output": "1\r\n5",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "5,4,3,2,1",
+      "setup": "javac MinMax.java",
+      "run": "java MinMax",
+      "input": "5\r\n4\r\n3\r\n2\r\n1",
+      "output": "1\r\n5",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "40, 84, 32, 11, 65",
+      "setup": "javac MinMax.java",
+      "run": "java MinMax",
+      "input": "40\r\n84\r\n32\r\n11\r\n65",
+      "output": "11\r\n84",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
