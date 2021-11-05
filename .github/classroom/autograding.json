@@ -29,6 +29,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "10, 10, 10, 10, 10",
+      "setup": "javac MinMax.java",
+      "run": "java MinMax",
+      "input": "10\r\n10\r\n10\r\n10\r\n10",
+      "output": "10\r\n10",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
