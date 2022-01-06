@@ -1,4 +1,4 @@
-# For Loop MinMax
+# MinMax
 
 - Create a program called `MinMax.java`
 - Using a for loop, prompt the user for 5 numbers from 0 to 99
