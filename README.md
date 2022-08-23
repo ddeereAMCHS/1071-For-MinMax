@@ -1,5 +1,7 @@
 # MinMax
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `MinMax.java`
 - Using a for loop, prompt the user for 5 numbers from 0 to 99
 - After the for loop:
