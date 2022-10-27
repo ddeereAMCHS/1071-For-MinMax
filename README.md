@@ -15,5 +15,5 @@ Example Input:\
 23\
 64\
 Example Output:\
-12\
-74
+The min is 12\
+The max is 74
