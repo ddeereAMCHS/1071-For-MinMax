@@ -8,12 +8,12 @@
   - Print the smallest number the user enters
   - Print the largest number the user enters
 
-Example Input:\
+***Example Input:***\
 50\
 12\
 74\
 23\
 64\
-Example Output:\
+***Example Output:***\
 The min is 12\
 The max is 74
