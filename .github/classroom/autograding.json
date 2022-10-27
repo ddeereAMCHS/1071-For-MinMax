@@ -5,7 +5,7 @@
       "setup": "javac MinMax.java",
       "run": "java MinMax",
       "input": "1\r\n2\r\n3\r\n4\r\n5",
-      "output": "1\r\n5",
+      "output": "The min is 1\r\nThe max is 5",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -15,7 +15,7 @@
       "setup": "javac MinMax.java",
       "run": "java MinMax",
       "input": "5\r\n4\r\n3\r\n2\r\n1",
-      "output": "1\r\n5",
+      "output": "The min is 1\r\nThe max is 5",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -25,7 +25,7 @@
       "setup": "javac MinMax.java",
       "run": "java MinMax",
       "input": "40\r\n84\r\n32\r\n11\r\n65",
-      "output": "11\r\n84",
+      "output": "The min is 11\r\nThe max is 84",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -35,7 +35,7 @@
       "setup": "javac MinMax.java",
       "run": "java MinMax",
       "input": "10\r\n10\r\n10\r\n10\r\n10",
-      "output": "10\r\n10",
+      "output": "The min is 10\r\nThe max is 10",
       "comparison": "included",
       "timeout": 10,
       "points": null
