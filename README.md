@@ -1,6 +1,6 @@
 # MinMax
 
-## Due: Mon 11/7 at 11:59 PM
+## Due: Fri 11/3 at 11:59 PM
 
 - Create a program called `MinMax.java`
 - Using a for loop, prompt the user for 5 numbers from 0 to 99
